@@ -1,6 +1,6 @@
 package main.java.OperacoesBasicas;
 
-import java.util.Objects;
+// import java.util.Objects;
 
 public class Convidado {
     private String nome;
